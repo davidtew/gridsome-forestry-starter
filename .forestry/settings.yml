@@ -11,7 +11,7 @@ sections:
   match: blogs/*.md
 - type: directory
   path: projects
-  label: Projects
+  label: Pwojects
   create: documents
   match: "**/*.md"
   templates:
