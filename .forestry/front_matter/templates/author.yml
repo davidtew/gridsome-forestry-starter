@@ -8,14 +8,17 @@ fields:
   name: title
   config:
     required: true
+  default: David Tew
 - type: textarea
   name: bio
   label: Bio
   config:
     required: true
+  default: blah blah blah
 - type: file
   name: avatar
   label: Avatar
+  default: "/uploads/IMG-20170930-WA0014.jpg"
 - type: text
   name: twitter
   label: Twitter
