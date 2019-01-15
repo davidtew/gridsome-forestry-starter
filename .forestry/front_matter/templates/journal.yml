@@ -29,7 +29,9 @@ fields:
     required: true
     options:
     - Nichlas W. Andersen
+    - David Tew
+    - Patrick Tew
   label: Author
-  default: ''
+  default: Nichlas W. Andersen
 pages:
 - journal/macos-development-environment.md
