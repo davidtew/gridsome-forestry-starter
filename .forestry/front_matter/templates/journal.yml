@@ -32,7 +32,7 @@ fields:
     - David Tew
     - Patrick Tew
   label: Author
-  default: Nichlas W. Andersen
+  default: Patrick Tew
 pages:
 - journal/macos-development-environment.md
 - blogs/disgusting-trump-administration.md
