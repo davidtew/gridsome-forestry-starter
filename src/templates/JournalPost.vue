@@ -64,14 +64,15 @@ export default {
 }
 .journal-title {
   font-size: 2.1rem;
-  margin: 0.5rem 0.5rem 2rem 0;
-  line-height: 0.7;
-  padding: 0.3rem;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+  line-height: 0.9;
+  padding: 0;
 }
 .journal-meta {
   display: flex;
   flex-wrap: wrap;
-  font-size: .7rem;
+  font-size: 0.6rem;
+  margin: 0 0 1rem 0;
   float: right;
   line-height: 0.4rem;
 }
