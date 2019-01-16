@@ -34,7 +34,6 @@ fields:
   label: Author
   default: Patrick Tew
 pages:
-- journal/macos-development-environment.md
 - blogs/disgusting-trump-administration.md
 - journal/gabbard-f-t-w.md
 - journal/disgusting-trump-administration.md
