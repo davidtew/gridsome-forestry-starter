@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          Progressive Perspectives - the blogs
+          Blogs
         </h1>
       </div>
     </div>
@@ -62,12 +62,12 @@ export default {
 }
 .journal-post {
   display: block;
-  padding: 1.5rem 0;
+  padding: 1rem 0;
   text-decoration: none;
   transition: background 0.4s ease;
 }
 .journal-post > * {
-  transition: transform 0.5s ease;
+  transition: transform 0.4s ease;
 }
 .journal-post:hover {
   background-color: var(--color-base-1);
@@ -90,13 +90,13 @@ export default {
 
 @media (min-width: 560px) {
   .journal-post {
-    padding: 2rem 0;
+    padding: 1rem 0;
   }
 }
 
 @media (min-width: 860px) {
   .journal-post {
-    padding: 4rem 0;
+    padding: 3rem 0;
   }
 }
 </style>
