@@ -60,20 +60,21 @@ export default {
   max-width: 840px;
 }
 .journal-header {
-  padding: 1rem 0 2rem 0;
+  padding: 1rem 0 1rem 0;
 }
 .journal-title {
-  font-size: 3rem;
-  margin: .5rem .5rem 2rem 0;
-  padding: .3rem;
+  font-size: 2.1rem;
+  margin: 0.5rem 0.5rem 2rem 0;
+  line-height: 0.7;
+  padding: 0.3rem;
 }
 .journal-meta {
   display: flex;
   flex-wrap: wrap;
-  font-size: 0.3rem;
+  font-size: 0.7rem;
 }
 .journal-meta > div {
-  margin-right: 2rem;
+  margin-right: 1rem;
 }
 .journal-meta > div:last-of-type {
   margin: 0;
