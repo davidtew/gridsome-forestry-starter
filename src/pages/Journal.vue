@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          Blogs
+         Blog Roll 
         </h1>
       </div>
     </div>
@@ -86,6 +86,7 @@ export default {
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
+  margin: -0.1rem 0 0 0.2rem;
 }
 
 @media (min-width: 560px) {
