@@ -1,10 +1,10 @@
 ---
-thumbnail: "/uploads/RyanFanKids.jpg"
-title: I have a Progressive Perspective, and I'm gonna use it.
+thumbnail: "/uploads/a future to believe in.jpg"
+title: 'Warning: I have a Progressive Perspective, and I''m willing to use it.'
 date: 2019-01-16 00:00:00 +0000
 categories: []
-project_bg_color: "#1F1FA7"
-project_fg_color: ''
+project_bg_color: "#4D4DD2"
+project_fg_color: "#FFFFFF"
 
 ---
 **Progressivism** is the support for or [advocacy](https://en.wikipedia.org/wiki/Advocacy "Advocacy") of improvement of society by [reform](https://en.wikipedia.org/wiki/Social_reform "Social reform").[\[1\]](https://en.wikipedia.org/wiki/Progressivism#cite_note-1) As a [philosophy](https://en.wikipedia.org/wiki/Philosophy "Philosophy"), it is based on the [idea of progress](https://en.wikipedia.org/wiki/Idea_of_progress "Idea of progress"), which asserts that advancements in [science](https://en.wikipedia.org/wiki/Science "Science"), [technology](https://en.wikipedia.org/wiki/Technology "Technology"), [economic development](https://en.wikipedia.org/wiki/Economic_development "Economic development") and [social organization](https://en.wikipedia.org/wiki/Social_organization "Social organization") are vital to the improvement of the [human condition](https://en.wikipedia.org/wiki/Human_condition "Human condition").
