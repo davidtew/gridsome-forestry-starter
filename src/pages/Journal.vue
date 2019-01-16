@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          a wise person once said...
+          Progressive Perspectives - the blogs
         </h1>
       </div>
     </div>
@@ -54,16 +54,17 @@ export default {
   color: var(--color-base-1);
 }
 .journal-header {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
   padding: 0;
+  line-height: 1;
   margin: 0;
 }
 .journal-post {
   display: block;
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   text-decoration: none;
-  transition: background 0.5s ease;
+  transition: background 0.4s ease;
 }
 .journal-post > * {
   transition: transform 0.5s ease;
@@ -89,13 +90,13 @@ export default {
 
 @media (min-width: 560px) {
   .journal-post {
-    padding: 3rem 0;
+    padding: 2rem 0;
   }
 }
 
 @media (min-width: 860px) {
   .journal-post {
-    padding: 5rem 0;
+    padding: 4rem 0;
   }
 }
 </style>
