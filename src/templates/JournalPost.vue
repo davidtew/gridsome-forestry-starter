@@ -71,7 +71,9 @@ export default {
 .journal-meta {
   display: flex;
   flex-wrap: wrap;
-  font-size: 0.7rem;
+  font-size: .7rem;
+  float: right;
+  line-height: 0.4rem;
 }
 .journal-meta > div {
   margin-right: 1rem;
