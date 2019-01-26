@@ -4,8 +4,11 @@
     <slot/>
     <Footer />
     eggCustard boys 
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c4cbeb2ef034593"></script>
   </div>
+      eggCustard2 
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c4cbeb2ef034593"></script>
+
 </template>
 
 <script>
