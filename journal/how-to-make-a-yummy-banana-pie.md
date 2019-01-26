@@ -19,8 +19,8 @@ date: 2019-01-26 00:00:00 +0000
 
 ![](/uploads/mike-dorner-173502-unsplash.jpg)
 
-Added social buttons
+Modified social buttons
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c4cbeb2ef034593"></script>
+                <div class="addthis_inline_share_toolbox"></div>
